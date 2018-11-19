@@ -46,11 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -525,14 +520,12 @@ and our administrator may contact you if we need any extra information.</h4>
     <a href="https://www.anaconda.com/distribution/">Anaconda</a>,
     an all-in-one installer.
   </p>
-
-    <p>
+  <p>
       Regardless of how you choose to install it,
       <strong>please make sure you install Python version 3.x</strong>
       (e.g., 3.6 is fine).
-    </p>
-
-    <p>
+  </p>
+  <p>
       We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
       a programming environment that runs in a web browser. For this to work you will need a reasonably
       up-to-date browser. The current versions of the Chrome, Safari and
@@ -540,7 +533,7 @@ and our administrator may contact you if we need any extra information.</h4>
       <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
       (some older browsers, including Internet Explorer version 9
       and below, are not).
-    </p>
+  </p>
 
   <div class="row">
     <div class="col-md-4">
