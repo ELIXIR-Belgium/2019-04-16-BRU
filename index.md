@@ -183,13 +183,13 @@ This workshop is possible thanks to the sponsorship and collaboration of the fol
 
 <div class="partner-logos">
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
-    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="150"/>
   </a>
   <a href="https://www.denbi.de/" title="de.NBI">
-    <img style="margin-right:50px" alt="de.NBI" src="fig/deNBI-logo.png" width="120"/>
+    <img style="margin-right:50px" alt="de.NBI" src="fig/deNBI-logo.png" width="175"/>
   </a>
   <a href="https://www.inbo.be/" title="Research Institute Nature and Forest (INBO) ">
-    <img style="margin-right:50px" alt="BRFAA" src="fig/logo_inbo.png" width="150"/>
+    <img style="margin-right:50px" alt="BRFAA" src="fig/logo_inbo.png" width="200"/>
   </a>
 </div>
 
